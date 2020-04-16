@@ -2,7 +2,7 @@
   "name": "section3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SteveZhangCDM.github.io/Monsters-Searching/",
+  "homepage": "https://stevezhangcdm.github.io/Monsters-Seraching/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
