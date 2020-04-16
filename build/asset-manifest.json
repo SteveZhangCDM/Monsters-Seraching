@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Monsters-Searching/static/css/main.95467202.chunk.css",
-    "main.js": "/Monsters-Searching/static/js/main.cdb02ac6.chunk.js",
-    "main.js.map": "/Monsters-Searching/static/js/main.cdb02ac6.chunk.js.map",
-    "runtime-main.js": "/Monsters-Searching/static/js/runtime-main.1b61dc2a.js",
-    "runtime-main.js.map": "/Monsters-Searching/static/js/runtime-main.1b61dc2a.js.map",
-    "static/js/2.a3f29769.chunk.js": "/Monsters-Searching/static/js/2.a3f29769.chunk.js",
-    "static/js/2.a3f29769.chunk.js.map": "/Monsters-Searching/static/js/2.a3f29769.chunk.js.map",
-    "index.html": "/Monsters-Searching/index.html",
-    "precache-manifest.cdcb952675d9dccf6ff66e4fb8f60f40.js": "/Monsters-Searching/precache-manifest.cdcb952675d9dccf6ff66e4fb8f60f40.js",
-    "service-worker.js": "/Monsters-Searching/service-worker.js",
-    "static/css/main.95467202.chunk.css.map": "/Monsters-Searching/static/css/main.95467202.chunk.css.map",
-    "static/js/2.a3f29769.chunk.js.LICENSE.txt": "/Monsters-Searching/static/js/2.a3f29769.chunk.js.LICENSE.txt"
+    "main.css": "/Monsters-Seraching/static/css/main.95467202.chunk.css",
+    "main.js": "/Monsters-Seraching/static/js/main.cdb02ac6.chunk.js",
+    "main.js.map": "/Monsters-Seraching/static/js/main.cdb02ac6.chunk.js.map",
+    "runtime-main.js": "/Monsters-Seraching/static/js/runtime-main.c3ad2959.js",
+    "runtime-main.js.map": "/Monsters-Seraching/static/js/runtime-main.c3ad2959.js.map",
+    "static/js/2.a3f29769.chunk.js": "/Monsters-Seraching/static/js/2.a3f29769.chunk.js",
+    "static/js/2.a3f29769.chunk.js.map": "/Monsters-Seraching/static/js/2.a3f29769.chunk.js.map",
+    "index.html": "/Monsters-Seraching/index.html",
+    "precache-manifest.d4fe9980a20076c9fea10a605f1810f8.js": "/Monsters-Seraching/precache-manifest.d4fe9980a20076c9fea10a605f1810f8.js",
+    "service-worker.js": "/Monsters-Seraching/service-worker.js",
+    "static/css/main.95467202.chunk.css.map": "/Monsters-Seraching/static/css/main.95467202.chunk.css.map",
+    "static/js/2.a3f29769.chunk.js.LICENSE.txt": "/Monsters-Seraching/static/js/2.a3f29769.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b61dc2a.js",
+    "static/js/runtime-main.c3ad2959.js",
     "static/js/2.a3f29769.chunk.js",
     "static/css/main.95467202.chunk.css",
     "static/js/main.cdb02ac6.chunk.js"
